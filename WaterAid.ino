@@ -16,7 +16,7 @@
 volatile int mode = 1;          // mode ~ 1 = collect with button, 2 = collect at intervals
 int deviceID = 1;               // custom ID for backend
 String deviceName = "device1";  // custom name of device
-int sleepTime = 300000;           // time to sleep between reads (applicable to [mode 1])
+int sleepTime = 450000;           // time to sleep between reads (applicable to [mode 1])
 
 bool proDebug = false;           // debugging?
 
