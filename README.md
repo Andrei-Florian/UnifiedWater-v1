@@ -1,4 +1,6 @@
 # Overview
+![Cover Image](https://hackster.imgix.net/uploads/attachments/914672/img_3381_qej5WPoQIY.JPG?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 We live in a time when innovation and developments in technology advance much faster than we could have ever anticipated. That being said, there is a great need for resources to fuel these developments. Oil, fuel and electricity drive the technological world and are essential to our development.
 Although a shift to green energy is inevitable, at the present, only 24% of our energy usage is renewable. Hence, we work primarily with other energy sources that produce a lot of waste. This waste pollutes the atmosphere and waters of the world, endangering animals, and our own health.
 
