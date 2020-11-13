@@ -26,3 +26,8 @@ WaterAid is an affordable, mass producible and open source end to end applicatio
 
 # Continue Reading
 The rest of the project including instructions to construct it are found at the following link - https://hackaday.io/project/174026-wateraid/details.
+
+# Latest Update
+This project has been updated and is now being hosted on Hackaday. Check that out at the links below.
+GitHub - https://github.com/Andrei-Florian/UnifiedWater
+Hackaday - https://hackaday.io/project/174026-unifiedwater
